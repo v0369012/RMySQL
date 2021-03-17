@@ -1,0 +1,12 @@
+name: Mysql
+title: Mysql
+username:
+account: v0369012
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3697857
+bundleId: 4271540
+url: https://v0369012.shinyapps.io/Mysql/
+when: 1614269548.28793
+asMultiple: FALSE
+asStatic: FALSE
